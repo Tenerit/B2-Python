@@ -43,9 +43,15 @@ while nombre != nbrMyst:
 #si le nombre myst est plus grand  
     if int(nombre) < nbrMyst:
         print("Le nombre mystère est plus grand !\n")
+        f = open('2a-molB.txt', 'a',)
+        f.write("le nombre mystère est plus grand!\n")
+        f.close()
 #si le nombre myst est plust petit
     elif int(nombre) > nbrMyst:
-        print("Le nombre mystère est plus petit !\n")
+         print("Le nombre mystère est plus petit !\n")
+         f = open('2a-molB.txt', 'a',)
+         f.write("le nombre mystère est plus grand !\n")
+         f.close()
 
 #pour stopper linput
     elif str(x) == "q":
