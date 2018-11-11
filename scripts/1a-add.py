@@ -1,7 +1,7 @@
 #!/usr/bin/python36
 #1a-add.py
 #Demande deux nombres a l'utilisateur pour afficher l'addition des deux nombres
-#Développé par Anthony Scotto Et Florian Borie
+#Scotto Anthony
 #15/10/2018
 
 #system d'import

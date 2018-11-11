@@ -1,7 +1,7 @@
 #!/usr/bin/python36
 #1d-mol.py
 #Jeu du plus ou moins
-#Développé par Anthony Scotto Et Florian Borie
+#Scotto Anthony
 #23/10/2018
 
 

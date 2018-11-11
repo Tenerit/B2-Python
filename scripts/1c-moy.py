@@ -1,7 +1,7 @@
 #!/usr/bin/python3.6
 #1c-moy.py
 #Demande une saisie utilisateur de plusieurs notes et prénoms
-#Développé par Anthony Scotto Et Florian Borie
+#Scotto Anthony
 #15/10/2018
 
 #importation

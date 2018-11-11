@@ -2,7 +2,7 @@
 #1c-moy.py
 #Demande une saisie utilisateur de plusieurs prénom qui seront afficher
 #dans l'ordre alphabetique
-#Développé par Anthony Scotto Et Florian Borie
+#Scotto Anthony
 #15/10/2018
 
 entree_list=[]
