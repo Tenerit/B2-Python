@@ -1,8 +1,8 @@
 #!/usr/bin/env python36
-# Name: 3a-save
+# 3b-opt
 # Script qui permet d'effectuer une sauvegarde.
 # 11/11/18
-# Scotto Anthony et Borie Florien
+# Scotto Anthony
 
 # Importe des modules
 import signal
