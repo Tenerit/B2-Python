@@ -1,5 +1,2 @@
 # TP 2 PYTHON
-
-*1
-*2
-*2
+Plus ou moins et script de sauvegarde
