@@ -2,7 +2,7 @@
 # 2a-mol
 # Jeu du plus ou moins dans un fichier
 # 23/10/2018
-# Scotto Anthony et Borie Florien
+# Scotto Anthony
 
 #Importe des modules
 import signal
